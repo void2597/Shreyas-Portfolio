@@ -1,3 +1,5 @@
+ 
+ 
  /* google fonts  */
  
  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
@@ -478,38 +480,71 @@ color: var(--title-color);
     display: block;
     background-color: var(--first-color);
 }
-.skills_html{
-    width: 90%;
-}
-.skills_css{
-    width: 80%;
-}
-.skills_js{
-    width: 90%;
-}
-.skills_react{
-    width: 90%;
-}
-.skills_php{
-    width: 90%;
-}
-.skills_node{
-    width: 90%;
-}
-.skills_firebase{
-    width: 90%;
+.skills_java{
+    width: 100%;
 }
 .skills_python{
-    width: 90%;
+    width: 100%;
 }
-.skills_figma{
-    width: 80%;
+.skills_js{
+    width: 85%;
 }
-.skills_sketch{
-    width: 90%;
+.skills_scikit-learn{
+    width: 85%;
 }
-.skills_photoshop{
-    width: 90%;
+.skills_h20{
+    width: 85%;
+}
+.skills_apache-spark{
+    width: 85%;
+}
+.skills_mongodb{
+    width: 85%;
+}
+.skills_elastic-search{
+    width: 85%;
+}
+.skills_mysql{
+    width: 85%;
+}
+.skills_postgresql{
+    width: 85%;
+}
+.skills_sqlite{
+    width: 85%;
+}
+.skills_html{
+    width: 85%;
+}
+.skills_css{
+    width: 85%;
+}
+.skills_bootstrap{
+    width: 85%;
+}
+.skills_js{ 
+    width: 85%;
+}
+.skills_reactjs{
+    width: 85%;
+}
+.skills_nodejs{
+    width: 85%;
+}
+.skills_intellij{
+    width: 85%;
+}
+.skills_eclipseide{
+    width: 85%;
+}
+.skills_maven{
+    width: 85%;
+}
+.skills_git{
+    width: 85%;
+}
+.skills_aws{
+    width: 85%;
 }
 .skills_close .skills_list{
     height: 0;
@@ -847,7 +882,7 @@ color: var(--title-color);
 }
 .footer_bg{
     background-color: var(--first-color-second);
-    padding: 2rem 0 3rem ;
+    padding: 2rem 0 8rem ;
 }
 .footer_title{
     font-size: var(--h1-font-size);
@@ -1154,8 +1189,8 @@ background-color: var(--first-color-alt);
         
     }
    
-    .footer_container{
-        justify-content: flex-start;
+    .footer{
+        height: 15rem;
     }
     .swiper-pagination{
         margin-top: 3rem ;
